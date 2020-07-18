@@ -111,7 +111,7 @@ public class AndroidClapListener implements IClapListener {
             	return;
             }
                         	
-            // Successfull Read
+            // Successful Read
             double[] preRealData = new double[bufferSize];
             double PI = 3.14159265359;
             for (int i = 0; i < bufferSize; i++) {
